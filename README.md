@@ -2,9 +2,7 @@
 
 A modern, AI-powered web application for detecting pneumonia from chest X-ray images. This project demonstrates the deployment of a deep learning model (ResNet18) using FastAPI and a responsive frontend.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Chest+X-Ray+App+Screenshot)
-
-> **⚠️ Educational Purpose Only**: This tool is a demonstration of AI capabilities and is **not** intended for medical diagnosis or decision-making.
+![App Screenshot](static/images/Screenshot2025-11-22.png)
 
 ## 🚀 Features
 
